@@ -1,1 +1,1 @@
-งVOL-
+Control + Shift + MUTE
