@@ -1,1 +1,2 @@
 Control + Shift + MUTE
+\VOL-
